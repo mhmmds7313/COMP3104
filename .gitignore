@@ -1,0 +1,18 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Build output
+build/
+
+# IDE
+.idea/
+*.iml
+.gradle/
+local.properties
+
+# macOS
+.DS_Store
+
+# Environment
+.env
